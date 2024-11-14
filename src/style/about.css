@@ -1,0 +1,11 @@
+.about{
+    justify-items: center;
+    margin-top: 80px;
+    color: blue;
+}
+.para1{
+    padding: 20px;
+    font-size: larger;
+    font-style:italic ;
+    font-weight: 800;
+}

@@ -1,0 +1,10 @@
+.foot{
+    justify-items: center;
+    color: rgb(21, 21, 218);
+    background-color: rgb(15, 1, 29);
+    height: 50px;
+    width: 900%;
+    margin-top: 20px;
+    font-size: large;
+    font-weight: bold;
+}

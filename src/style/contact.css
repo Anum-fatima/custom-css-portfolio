@@ -1,0 +1,45 @@
+.contact{
+    justify-items: center;
+    color: blue;
+    margin-top: 20px;
+    height: 400px;
+    width: 500px;
+    
+}
+
+ .personal{
+    padding: 20px; 
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px; 
+    justify-content: space-between;
+    border: solid purple 2px;
+    border-radius: 10px;
+
+}
+
+
+
+.info{
+    
+    border: blue 2px;
+    box-shadow: blue 10px;
+    justify-content:space-between ;
+    
+}
+.tex{
+
+    border: blue 2px;
+    box-shadow: blue 5px;
+    margin-top: 15px;
+    
+}
+
+.but{
+    background-color: blue;
+    margin-top: 15px;
+}
+:hover.but{
+    background-color: purple;
+    
+}
